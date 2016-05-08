@@ -15,7 +15,7 @@ func main() {
 	//fmt.Print(1)
 
 	primes =GetPrimes(num,primes)
-	//primes = GetPrimes()
+
 
 	PrintLargestPrimeFactor(num,primes)
 
